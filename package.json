@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/linchpino/linchpino-ai/issues"
   },
-  "homepage": "https://github.com/linchpino/linchpino-ai#readme"
+  "homepage": "https://github.com/linchpino/linchpino-ai#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
