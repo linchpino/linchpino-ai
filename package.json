@@ -1,0 +1,27 @@
+{
+  "name": "linchpino-ai",
+  "version": "1.0.0",
+  "description": "Empowering Tomorrow: Linchpino Smart",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"runing the project\"",
+    "test": "echo \"Linchpino Smart\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linchpino/linchpino-ai.git"
+  },
+  "keywords": [
+    "Linchpino",
+    "AI",
+    "Smart",
+    "Wise",
+    "coach"
+  ],
+  "author": "Homayoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linchpino/linchpino-ai/issues"
+  },
+  "homepage": "https://github.com/linchpino/linchpino-ai#readme"
+}
