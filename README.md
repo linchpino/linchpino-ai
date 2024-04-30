@@ -5,6 +5,8 @@ Linchpino Smart is a AI part of Linchpino project.
 Run the command:
 ``` node start ```
 
-
 ## Prequisits
 - NodeJS
+
+## Frameworks
+- ExpressJS
