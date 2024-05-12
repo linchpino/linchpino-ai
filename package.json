@@ -4,7 +4,8 @@
   "description": "Empowering Tomorrow: Linchpino Smart",
   "main": "index.js",
   "scripts": {
-    "start": "echo \"runing the project\"",
+    "start:dev": "nodemon ./index.js",
+    "start": "node ./index.js",
     "test": "echo \"Linchpino Smart\""
   },
   "repository": {
@@ -26,6 +27,8 @@
   "homepage": "https://github.com/linchpino/linchpino-ai#readme",
   "dependencies": {
     "@google/generative-ai": "^0.11.1",
-    "express": "^4.19.2"
-  }
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "type": "module"
 }

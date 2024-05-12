@@ -1,0 +1,1 @@
+export const enum LEVEL {STARTER, JOUNIOR, MEDDIOR, SENIOR}
